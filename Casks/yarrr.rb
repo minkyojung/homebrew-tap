@@ -1,6 +1,6 @@
 cask "yarrr" do
-  version "0.1.3"
-  sha256 "52b78f5cedd6ff2778a118a0d0ec1ae36f46e55c652e505da503a722e88c5c9e"
+  version "0.1.4"
+  sha256 "1f16ceed3cc58057b1a429be90a3854b251d0f53da41817d189fc12b6fcb409a"
 
   url "https://github.com/minkyojung/realtime-assistance/releases/download/v#{version}/yarrr.zip"
   name "yarrr"
